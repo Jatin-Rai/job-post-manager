@@ -1,9 +1,5 @@
 # Job Post Manager
 
-# Vite React Project
-
-This is a template for creating a React project using Vite.
-
 ## Getting Started
 
 To get started with this project, follow these steps:

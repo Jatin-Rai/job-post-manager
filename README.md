@@ -11,7 +11,14 @@ To get started with this project, follow these steps:
 
    ```
 
-2. Install packages/dependencies:
+2. Change directory to root project folder
+
+   ```bash
+   cd job-post-manager
+
+   ```
+
+3. Install packages/dependencies:
 
    ```bash
    npm install
@@ -19,7 +26,7 @@ To get started with this project, follow these steps:
    yarn
    ```
 
-3. Run the application:
+4. Run the application:
 
    ```bash
    npm run dev

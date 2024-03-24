@@ -1,9 +1,16 @@
-# React + Vite
+# Job Post Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Vite React Project
 
-Currently, two official plugins are available:
+This is a template for creating a React project using Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# job-post-manager
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Jatin-Rai/job-post-manager.git
+
+```bash

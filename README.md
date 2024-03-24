@@ -26,3 +26,5 @@ To get started with this project, follow these steps:
    or
    yarn dev
    ```
+
+You application should be running on port - http://localhost:5173/
